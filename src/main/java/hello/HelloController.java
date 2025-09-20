@@ -18,6 +18,6 @@ public class HelloController {
         }
 
         // Return the greeting message with the IPv4 address
- return "JAVA application has been  deployed on Amazon 19-SEPtember 2025... By kanna. IP Address: " + ipAddress;
+ return "JAVA application has been  deployed on Amazon 20-SEPtember 2025... By kanna. IP Address: " + ipAddress;
     }
 }
